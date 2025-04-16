@@ -3,6 +3,12 @@
     { "id": 1, "name": "John Doe", "date": "2025-04-01", "attendance": "Present" },
     { "id": 2, "name": "Jane Smith", "date": "2025-04-01", "attendance": "Absent" },
     { "id": 3, "name": "Alice Johnson", "date": "2025-04-01", "attendance": "Present" },
-    { "id": 4, "name": "Bob Brown", "date": "2025-04-01", "attendance": "Absent" }
+    { "id": 4, "name": "Bob Brown", "date": "2025-04-01", "attendance": "Absent" },
+    { "id": 5, "name": "Jane Smith", "date": "2025-04-01", "attendance": "Absent" },
+    { "id": 6, "name": "Alice Johnson", "date": "2025-04-01", "attendance": "Present" },
+    { "id": 7, "name": "Bob Brown", "date": "2025-04-01", "attendance": "Absent" },
+    { "id": 8, "name": "Jane Smith", "date": "2025-04-01", "attendance": "Absent" },
+    { "id": 9, "name": "Alice Johnson", "date": "2025-04-01", "attendance": "Present" },
+    { "id": 10, "name": "Bob Brown", "date": "2025-04-01", "attendance": "Absent" }
   ]
 }
